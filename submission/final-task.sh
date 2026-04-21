@@ -3,4 +3,4 @@
 # wallet=$(bitcoin-cli -signet -named createwallet wallet_name="aaron-leeb" descriptors=true)
 
 # Export receiving descriptor
-bitcoin-cli -signet -rpcwallet=aaron-leeb listdescriptors
+# bitcoin-cli -signet -rpcwallet=aaron-leeb listdescriptors
