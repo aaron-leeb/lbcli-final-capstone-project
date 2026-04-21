@@ -1,0 +1,7 @@
+Legacy: pkh([2e4f3516/44h/1h/0h]tpubDCQyvtcoxBdGYdKvi3D3oFN5yBbmXuxzUnwtviH3N3X6DtT78UH2PFYckVYTxZD18GYqjWhS8LFqnZDou4zprr2d82SpMfSzfVFFEHYQNej/0/*)#rxktu6sk
+
+P2SH-P2WPKH: sh(wpkh([2e4f3516/49h/1h/0h]tpubDDPxJgJ4antxKXqySKwf3pdepTiHAHrqqCBLkg979Low8i3s1h4DRRaQDQkCYtTvwX7oX763T3tfjeLizVkJEaZp6fnWrYmWhbDXwzbGVMF/0/*))#404ndvs4
+
+Native Segwit: wpkh([2e4f3516/84h/1h/0h]tpubDCrXi3T2NLjkwHbtD4tQnRDdppzkAaBieQWALZYwhSUk5BipmbcpEwvZGdA7nZGGTAMV9UicgsiFqWpj2igxx9ejJ6Q79B8zXgB6nbGzpam/0/*)#m0cu4u40
+
+Taproot: tr([2e4f3516/86h/1h/0h]tpubDCk1fKn1yxUWrzZ1i7zxdC3AQZTY2QD2dSELdsCDRSHwLJ39vjPn7U6wzs4Rkf9naa65ek7Mi8T2jYVNo4TPUu8T6YdF3B6QhNmi4GFRU4C/0/*)#k3dv3da7
