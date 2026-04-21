@@ -15,5 +15,5 @@
 # bitcoin-cli -signet -rpcwallet=aaron-leeb listtransactions
 
 # Use getblock to find the coinbase transaction in the block
-# bitcoin-cli -signet getblock 0000000841b67babf10f5eaaae0d6a7ca88cb0226e76eda308c26837be07ae4e 2 | jq -r '.tx[0].txid'
+# bitcoin-cli -signet getblock 00000005d768933ec4ef250a768be84e596eebbfe0b9358eab4da3f6a7cea35d 2 | jq -r '.tx[0] | .txid'
 
